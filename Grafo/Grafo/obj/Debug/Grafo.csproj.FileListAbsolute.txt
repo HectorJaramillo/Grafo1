@@ -1,0 +1,7 @@
+C:\Users\DELL CORE i5\source\repos\Grafo\Grafo\bin\Debug\Grafo.exe.config
+C:\Users\DELL CORE i5\source\repos\Grafo\Grafo\bin\Debug\Grafo.exe
+C:\Users\DELL CORE i5\source\repos\Grafo\Grafo\bin\Debug\Grafo.pdb
+C:\Users\DELL CORE i5\source\repos\Grafo\Grafo\obj\Debug\Grafo.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\source\repos\Grafo\Grafo\obj\Debug\Grafo.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\source\repos\Grafo\Grafo\obj\Debug\Grafo.exe
+C:\Users\DELL CORE i5\source\repos\Grafo\Grafo\obj\Debug\Grafo.pdb
